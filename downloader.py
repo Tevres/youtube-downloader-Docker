@@ -1,6 +1,6 @@
 import subprocess
 
-yt_link = input("Bitte den YouTube-Link eingeben: ")
+yt_link = input("YouTube Link: ")
 
 download_path = "downloads/%(title)s - %(channel)s.%(ext)s"
 
